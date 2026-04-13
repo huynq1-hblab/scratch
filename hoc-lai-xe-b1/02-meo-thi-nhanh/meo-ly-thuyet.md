@@ -75,5 +75,57 @@ Thay vì học bảng số phức tạp, hãy nhìn vào **Từ cuối cùng** c
 - **Dải phân cách**: Có 2 loại là **"Cố định"** và **"Di động"**.
 
 ---
-> [!TIP]
-> **Quy tắc 80/20**: 80% câu hỏi về luật có thể giải được bằng cách tìm các từ "Không được", "Bị nghiêm cấm" hoặc chọn "Ý dài nhất". Đừng quá lo lắng về việc học thuộc lòng từng con số!
+## 8. Mẹo Hiệu Lệnh Của Cảnh Sát Giao Thông (CSGT)
+Đây là mẹo "thần thánh" cho các câu hình ảnh CSGT:
+- **Hành động 1 tay**: CSGT giơ 1 tay thẳng đứng -> Chọn **Đáp án 3**.
+- **Hành động 2 tay**: CSGT giơ 2 tay ngang -> Chọn **Đáp án 4**.
+*(Mẹo nhớ: "1-3, 2-4" - Một giơ chọn ba, hai giơ chọn bốn).*
+
+## 9. Mẹo Về Các Con Số Định Mức
+| Đối tượng | Con số cần nhớ |
+| :--- | :--- |
+| Đỗ xe cách xe khác | **20 mét** |
+| Đỗ xe cách lề đường, hè phố | **0.25 mét** |
+| Đỗ xe cách đường ray đường sắt | **5 mét** |
+| Sử dụng đèn Pha trong đô thị | **Nghiêm cấm** (Chỉ dùng đèn Cốt) |
+| Cấp giấy phép lái xe (GPLX) | **Sở Giao thông vận tải** |
+
+## 10. Mẹo Chọn Đáp Án "Tất Cả" Hoặc "Cả Ý 1 & 2"
+Trong đề thi 600 câu:
+- Đa số các câu có đáp án **"Tất cả các ý trên"** hoặc **"Cả ý 1 và ý 2"** đều là đáp án đúng.
+- **Trừ các trường hợp sau**:
+    - Câu hỏi về **Độ tuổi** (Chỉ chọn 1 đáp án cụ thể).
+    - Câu hỏi về **Nồng độ cồn** (Chỉ chọn "Bị nghiêm cấm").
+
+## 11. Mẹo Từ Khóa Cho Phần Văn Hóa & Đồ Dùng Xe
+- **Văn hóa giao thông**: Ưu tiên chọn các đáp án có nội dung: "Nhường đường", "Giảm tốc độ", "Phải quan sát", "Trách nhiệm", "Tình thương".
+- **Gương chiếu hậu**: Chọn đáp án có tác dụng **"Quan sát phía sau"**.
+- **Dây đai an toàn**: Chọn đáp án **"Giữ chặt người lái"**.
+- **Kính chắn gió**: Phải là loại **"Kính an toàn"**.
+- **Động cơ 4 kỳ**: 4 kỳ tương ứng với **"4 hành trình"**.
+
+## 12. Mẹo Câu Hỏi Có Nhiều Từ "Phải" Ở Đầu Câu
+Nếu tất cả các đáp án đều bắt đầu bằng từ **"Phải"**:
+- Chọn đáp án có **nội dung dài nhất**. 
+*(Mẹo này đúng cho hầu hết các câu về trách nhiệm của lái xe và quy tắc an toàn).*
+
+---
+## 13. Mẹo Phân Biệt Hạng Bằng Lái Xe
+Đây là bảng giúp bạn nhớ nhanh hạng bằng nào được lái xe gì:
+- **Hạng A1**: Xe mô tô 50cm3 đến dưới 175cm3 + Xe 3 bánh của người khuyết tật.
+- **Hạng A2**: Xe mô tô từ 175cm3 trở lên (bao gồm cả A1).
+- **Hạng B1 (Bạn đang học)**: Ô tô 9 chỗ, xe tải dưới 3.5 tấn **KHÔNG được hành nghề kinh doanh vận tải**.
+- **Hạng B2**: Ô tô 9 chỗ, xe tải dưới 3.5 tấn **ĐƯỢC hành nghề kinh doanh**.
+- **Hạng C**: Xe tải trên 3.5 tấn.
+- **Hạng D**: Xe khách từ 10 đến 30 chỗ.
+- **Hạng E**: Xe khách trên 30 chỗ.
+*(Mẹo nhớ: "B2 - 9 chỗ, tải dưới 3.5. C - trên 3.5. D - đến 30. E - trên 30").*
+
+## 14. Mẹo Về "Niên hạn sử dụng"
+- **Ô tô tải**: 25 năm.
+- **Ô tô chở người (> 9 chỗ)**: 20 năm.
+- **Ô tô con (B1/B2)**: Không quy định niên hạn.
+
+---
+> [!IMPORTANT]
+> **Hướng dẫn làm bài thi**: Hãy làm những câu Sa hình và Biển báo trước (vì dễ lấy điểm dựa trên mẹo). Sau đó mới làm đến phần Khái niệm và Kỹ thuật lái xe. Luôn để dành 2-3 phút cuối để soát lại các câu "Điểm liệt"!
