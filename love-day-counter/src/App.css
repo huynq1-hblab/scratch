@@ -1,0 +1,22 @@
+.app-container {
+  position: relative;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+.app-content {
+  position: relative;
+  z-index: 1;
+}
+
+/* Fade transitions */
+.fade-enter {
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+.fade-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.4s ease;
+}

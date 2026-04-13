@@ -1,0 +1,42 @@
+.edit-modal {
+    max-width: 460px;
+    max-height: 90vh;
+}
+
+.edit-modal-body {
+    max-height: 60vh;
+    overflow-y: auto;
+    padding-bottom: 8px !important;
+}
+
+.edit-section {
+    margin-bottom: 20px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.edit-section:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.edit-section-title {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin: 0 0 12px;
+}
+
+.edit-modal-footer {
+    display: flex;
+    gap: 10px;
+}
+
+.edit-modal-footer .btn-secondary {
+    flex: 0 0 auto;
+}
+
+.edit-modal-footer .btn-primary {
+    flex: 1;
+}

@@ -1,0 +1,87 @@
+.icon-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+}
+
+.icon-option {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3px;
+    padding: 10px 4px;
+    border: 2px solid #f0f0f0;
+    border-radius: 14px;
+    background: #fafafa;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.icon-option:hover {
+    border-color: var(--primary-light);
+}
+
+.icon-option.active {
+    border-color: var(--primary);
+    background: #fff1f2;
+}
+
+.icon-emoji {
+    font-size: 1.4rem;
+}
+
+.icon-label {
+    font-size: 0.65rem;
+    color: var(--text-muted);
+    font-weight: 500;
+}
+
+/* Toggle switch */
+.yearly-toggle {
+    margin-top: 8px;
+}
+
+.toggle-label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    font-weight: 500;
+}
+
+.toggle-checkbox {
+    display: none;
+}
+
+.toggle-switch {
+    width: 44px;
+    height: 24px;
+    background: #e5e7eb;
+    border-radius: 12px;
+    position: relative;
+    transition: background 0.3s;
+    flex-shrink: 0;
+}
+
+.toggle-switch::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: white;
+    border-radius: 50%;
+    top: 2px;
+    left: 2px;
+    transition: transform 0.3s;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+}
+
+.toggle-checkbox:checked+.toggle-switch {
+    background: var(--primary);
+}
+
+.toggle-checkbox:checked+.toggle-switch::after {
+    transform: translateX(20px);
+}

@@ -1,0 +1,176 @@
+.counter-section {
+    padding: 20px 16px 24px;
+    text-align: center;
+}
+
+/* Anniversary info */
+.anniversary-info {
+    margin-bottom: 12px;
+}
+
+.anniversary-label {
+    margin: 0;
+    font-size: 0.85rem;
+    color: var(--primary);
+    font-weight: 500;
+    opacity: 0.7;
+}
+
+.anniversary-date {
+    margin: 4px 0 0;
+    font-size: 1.2rem;
+    font-weight: 800;
+    color: var(--primary);
+}
+
+.couple-names-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 20px;
+    background: linear-gradient(135deg, #fff1f2, #fce7f3);
+    border-radius: 30px;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    border: 1.5px solid var(--primary-light);
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(244, 63, 94, 0.08);
+}
+
+.names-heart {
+    font-size: 1rem;
+}
+
+/* Counter cards */
+.counter-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    margin-bottom: 12px;
+}
+
+.counter-heart {
+    font-size: 0.7rem;
+    opacity: 0.6;
+    padding-bottom: 14px;
+}
+
+.counter-heart-sm {
+    font-size: 0.6rem;
+    opacity: 0.5;
+    padding-bottom: 12px;
+}
+
+.counter-card {
+    background: white;
+    border-radius: 16px;
+    padding: 14px 8px 10px;
+    min-width: 85px;
+    box-shadow: 0 2px 12px rgba(244, 63, 94, 0.06);
+    border: 1px solid rgba(244, 63, 94, 0.08);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+}
+
+.counter-value {
+    font-size: 2.8rem;
+    font-weight: 800;
+    color: var(--primary);
+    line-height: 1.1;
+    letter-spacing: -1px;
+}
+
+.counter-days {
+    color: var(--primary);
+}
+
+.counter-label {
+    font-size: 0.65rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+
+/* Secondary counter */
+.counter-secondary {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    margin-bottom: 20px;
+}
+
+.counter-card.small {
+    padding: 10px 6px 8px;
+    min-width: 70px;
+}
+
+.counter-value-sm {
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: var(--text-primary);
+    line-height: 1.1;
+}
+
+.counter-label-sm {
+    font-size: 0.6rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+
+.counter-seconds {
+    color: var(--primary) !important;
+}
+
+/* Total days badge */
+.total-days-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 12px 24px;
+    background: linear-gradient(135deg, #fff1f2, #fce7f3);
+    border-radius: 30px;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--primary);
+    border: 1.5px solid var(--primary-light);
+    animation: pulseGlow 3s ease-in-out infinite;
+}
+
+@keyframes pulseGlow {
+
+    0%,
+    100% {
+        box-shadow: 0 2px 12px rgba(244, 63, 94, 0.1);
+    }
+
+    50% {
+        box-shadow: 0 4px 20px rgba(244, 63, 94, 0.2);
+    }
+}
+
+@media (max-width: 380px) {
+    .counter-card {
+        min-width: 72px;
+        padding: 10px 6px 8px;
+    }
+
+    .counter-value {
+        font-size: 2.2rem;
+    }
+
+    .counter-card.small {
+        min-width: 60px;
+    }
+
+    .counter-value-sm {
+        font-size: 1.4rem;
+    }
+}
